@@ -10,6 +10,7 @@
 		CF6AABBC24A7715800747544 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF6AABBB24A7715800747544 /* main.cpp */; };
 		CFB673B224A8953A00D6B1C3 /* 2nd_exercise.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFB673B124A8953A00D6B1C3 /* 2nd_exercise.cpp */; };
 		CFB673B424A8972500D6B1C3 /* 1st_exercise.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFB673B324A8972500D6B1C3 /* 1st_exercise.cpp */; };
+		CFB673B824A8F6BE00D6B1C3 /* vector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFB673B624A8F6BE00D6B1C3 /* vector.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,8 @@
 		CFB673B124A8953A00D6B1C3 /* 2nd_exercise.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = 2nd_exercise.cpp; path = "exercise-1/2nd_exercise.cpp"; sourceTree = "<group>"; };
 		CFB673B324A8972500D6B1C3 /* 1st_exercise.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1st_exercise.cpp; sourceTree = "<group>"; };
 		CFB673B524A8DC4200D6B1C3 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		CFB673B624A8F6BE00D6B1C3 /* vector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = vector.cpp; sourceTree = "<group>"; };
+		CFB673B724A8F6BE00D6B1C3 /* vector.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = vector.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 				CFB673B324A8972500D6B1C3 /* 1st_exercise.cpp */,
 				CFB673B124A8953A00D6B1C3 /* 2nd_exercise.cpp */,
 				CFB673B524A8DC4200D6B1C3 /* main.h */,
+				CFB673B624A8F6BE00D6B1C3 /* vector.cpp */,
+				CFB673B724A8F6BE00D6B1C3 /* vector.hpp */,
 			);
 			path = "cpp-study";
 			sourceTree = "<group>";
@@ -129,6 +134,7 @@
 			files = (
 				CFB673B224A8953A00D6B1C3 /* 2nd_exercise.cpp in Sources */,
 				CF6AABBC24A7715800747544 /* main.cpp in Sources */,
+				CFB673B824A8F6BE00D6B1C3 /* vector.cpp in Sources */,
 				CFB673B424A8972500D6B1C3 /* 1st_exercise.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
